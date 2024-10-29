@@ -1379,3 +1379,7 @@ text-align: center;
     opacity: 0.5;
   }
   
+  /* mobile responsive */
+  @media (max-width:576px){
+    
+  }
